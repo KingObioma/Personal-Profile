@@ -22,5 +22,5 @@ Coming soon...
 ## 📂 Project Setup
 Clone the repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/portfolio-site.git
+git clone https://github.com/chimuagbawe/Personal-Profile.git
 cd portfolio-site
