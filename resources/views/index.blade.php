@@ -34,13 +34,18 @@
         </div>
     </div>
     <!-- Εnd Preloader -->
+    @include('body.topbar')
     <div id="page">
     <!-- header -->
     @include('body.header')
     <!-- End Header -->
 
     <!-- Main content section -->
-    @yield('sections')
+    @include('body.banner')
+    @include('body.about')
+    @include('body.resume')
+    @include('body.work')
+    @include('body.contact')
 
     <!-- Footer -->
     @include('body.footer')
