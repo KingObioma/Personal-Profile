@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-xs-6">
                 <!-- Logo -->
-                <h1 class="text-left"><a class="logo" href="index.html">King</a></h1>
+                <h1 class="text-left"><a class="logo" href="{{ route('home') }}">King</a></h1>
                 </div>
             </div>
             <!-- Nav toggle -->

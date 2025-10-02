@@ -3,11 +3,11 @@
     <div class="js-fullheight table">
     <div class="table-cell js-fullheight">
         <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="resume.html">Resume</a></li>
-            <li><a href="work.html">Portfolio</a></li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href="{{ route('home') }}">Home</a></li>
+            <li><a href="{{ route('about') }}">About</a></li>
+            <li><a href="{{ route('resume') }}">Resume</a></li>
+            <li><a href="{{ route('work') }}">Portfolio</a></li>
+            <li><a href="{{ route('contact') }}">Contact</a></li>
         </ul>
         <!-- Social -->
         <p class="social-icon">
