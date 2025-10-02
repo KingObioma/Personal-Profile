@@ -1,12 +1,3 @@
-/*-----------------------------------------------------------
-* Template Name    : Vendrick - Personal Portfolio Template
-* Author           : pavloff-studio
-* Version          : 1.0.0
-* Created          : Nov 2019
-* File Description : Main css file of the template
-*------------------------------------------------------------
-*/
-
 /***********************
     1.FONTS
     2.BASIC
@@ -14,7 +5,7 @@
     4.NAVIGATION
     5.HEADER
     6.BANNER
-    7.ABOUT 
+    7.ABOUT
     8.RESUME
     9.SERVICES
     10.COUNTERS
@@ -385,7 +376,7 @@ hr {
 }
 
 .social-icon a i:hover {
-  color: #000;
+  color: #08b0b0;
 }
 
 .social-links {
@@ -472,7 +463,7 @@ hr {
   }
 }
 
-.header-page h2:before, 
+.header-page h2:before,
 .header-page h2:before {
     content: '';
     position: absolute;
@@ -496,7 +487,7 @@ hr {
   }
 }
 
-.header-page h2:after, 
+.header-page h2:after,
 .header-page h2:after {
     content: '';
     position: absolute;
@@ -979,7 +970,7 @@ hr {
   -moz-transform: scale(1);
   -ms-transform: scale(1);
   -o-transform: scale(1);
-  transform: scale(1); 
+  transform: scale(1);
 }
 
 #main-nav h1 {
@@ -1037,7 +1028,7 @@ hr {
   color: white;
   outline: none;
   color: #008080;
-  text-decoration: none; 
+  text-decoration: none;
 }
 
 @media screen and (max-width: 768px) {
@@ -1522,6 +1513,10 @@ header .navbar-brand .social-icon a {
   float: left;
   border: 2px solid #008080;
   margin-bottom: 40px;
+}
+
+.my-section {
+   margin-top: 100px;
 }
 
 @media (max-width: 991px) {

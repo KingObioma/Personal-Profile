@@ -1,4 +1,6 @@
    @extends('layout')
    @section('pages')
-   @include('body.about')
+   <div class="my-section">
+       @include('body.about')
+   </div>
    @endsection
