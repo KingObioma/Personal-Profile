@@ -41,11 +41,7 @@
     <!-- End Header -->
 
     <!-- Main content section -->
-    @include('body.banner')
-    @include('body.about')
-    @include('body.resume')
-    @include('body.work')
-    @include('body.contact')
+    @yield('pages')
 
     <!-- Footer -->
     @include('body.footer')
