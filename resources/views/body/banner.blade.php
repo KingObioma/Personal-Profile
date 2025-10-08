@@ -4,6 +4,7 @@
                <ul class="list-unstyled ml-5 mt-3 position-relative social-links">
                   <li class="mb-3"><a href="#"><i class="fab fa-linkedin"></i></a></li>
                   <li class="mb-3"><a href="#"><i class="fab fa-instagram"></i></a></li>
+                  <li class="mb-3"><a href="#"><i class="fab fa-facebook-square"></i></a></li>
                </ul>
                <!-- Slider -->
                <ul class="slides">

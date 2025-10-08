@@ -9,10 +9,9 @@
                         <span><a href="#">{{ $project['slug'] }}</a></span>
                         <p>{{ $project['description'] }}</p>
                          <p class="social-icon">
-                           <a href="#"><i class="fab fa-facebook-square"></i></a>
-                           <a href="#"><i class="fab fa-twitter-square"></i></a>
+                             <a href="#"><i class="fab fa-linkedin"></i></a>
+                             <a href="#"><i class="fab fa-facebook-square"></i></a>
                            <a href="#"><i class="fab fa-instagram"></i></a>
-                           <a href="#"><i class="fab fa-dribbble"></i></a>
                         </p>
                      </div>
                </div>
