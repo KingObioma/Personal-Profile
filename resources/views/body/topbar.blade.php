@@ -17,10 +17,4 @@
     </div>
     </div>
 </nav>
-<!-- Scroll icon -->
-<div class="scroll-icon">
-    <a href="#info" class="smoothscroll">
-    <div class="mouse"></div>
-    </a>
-    <div class="end-top"></div>
-</div>
+
