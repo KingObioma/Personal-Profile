@@ -1,4 +1,4 @@
-<header class="header">
+<header class="header" style="background: rgb(0, 0, 0);">
     <div class="container">
         <div class="navbar-brand">
             <div class="row">

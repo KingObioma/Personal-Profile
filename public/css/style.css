@@ -2239,6 +2239,7 @@ header .navbar-brand .social-icon a {
 
 input[type="text"] {
   height: 50px;
+  color: white;
 }
 
 .form-group {
@@ -2428,6 +2429,9 @@ input[type="text"] {
 .double-bounce2 {
   -webkit-animation-delay: -1.0s;
   animation-delay: -1.0s;
+}
+.white{
+    color: white;
 }
 
 @-webkit-keyframes bounce {

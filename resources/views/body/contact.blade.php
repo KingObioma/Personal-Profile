@@ -14,26 +14,27 @@
                   <div class="col-md-3 col-md-push-1">
                      <ul class="contact-info">
                         <li><i class="fas fa-map-marked-alt"></i>km 78 East West Road, Port-Harcourt</li>
-                        <li><i class="fas fa-phone-alt"></i>+234 91-3266-7481</li>
-                        <li><i class="fas fa-envelope"></i><a href="#">kingobioma8@gmail.com</a></li>
-                        <li><i class="fas fa-globe"></i><a href="#">www.obiomaking.com</a></li>
+                        <li><i class="fas fa-phone-alt"></i><a href="tel:+2349132667481">+234 91-3266-7481</a></li>
+                        <li><i class="fas fa-envelope"></i><a href="mailto:kingobioma8@gmail.com?subject=Portfolio%20Inquiry&body=Hey%20King%2C%20I%20just%20saw%20your%20portfolio%20and%20I%27m%20interested%20in%20working%20with%20you." target="_blank">kingobioma8@gmail.com</a></li>
+                        <li><i class="fas fa-globe"></i><a href="javascript:void(0)">www.kingobioma.onrender.com</a></li>
                      </ul>
                   </div>
                   <div class="col-md-7 col-md-push-1">
                      <div class="row">
+                        <form action="https://formspree.io/f/xblzzdgn" method="POST" target="_blank">
                         <div class="col-md-6">
                            <div class="form-group">
-                              <input type="text" class="form-control" placeholder="Name">
+                              <input type="text" name="name" class="form-control" placeholder="Name">
                            </div>
                         </div>
                         <div class="col-md-6">
                            <div class="form-group">
-                              <input type="text" class="form-control" placeholder="Email">
+                              <input type="text" name="email" class="form-control" placeholder="Email">
                            </div>
                         </div>
                         <div class="col-md-12">
                            <div class="form-group">
-                              <textarea name="message" class="form-control" id="message" cols="30" rows="7" placeholder="Message"></textarea>
+                              <textarea name="message" class="form-control white" id="message" cols="30" rows="7" placeholder="Message"></textarea>
                            </div>
                         </div>
                         <div class="col-md-12">
@@ -41,6 +42,7 @@
                               <input type="submit" value="Send Message" class="btn btn-primary">
                            </div>
                         </div>
+                        </form>
                      </div>
                   </div>
                </div>
