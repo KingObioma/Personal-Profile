@@ -21,8 +21,8 @@
                            </div>
                            <div class="col-md-6 col-sm-4 no-padding">
                               <ul>
-                                 <li><span>Email : </span> <a href="#">kingobioma8@gmail.com</a></li>
-                                 <li><span>Phone : </span> <a href="#"> +234 91-3266-7481</a></li>
+                                 <li><span>Email : </span> <a href="mailto:kingobioma8@gmail.com?subject=Portfolio%20Inquiry&body=Hey%20King%2C%20I%20just%20saw%20your%20portfolio%20and%20I%27m%20interested%20in%20working%20with%20you." target="_blank">kingobioma8@gmail.com</a></li>
+                                 <li><span>Phone : </span> <a href="tel:+2349132667481"> +234 91-3266-7481</a></li>
                               </ul>
                            </div>
                            <hr>

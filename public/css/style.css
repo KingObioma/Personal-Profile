@@ -456,10 +456,11 @@ hr {
     width: 14px;
     height: 14px;
     left: calc(50% - 7px);
-    bottom: 137px;
+    bottom: 82.5px;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     border: 3px solid #008080;
+    display: none;
   }
 }
 
@@ -482,8 +483,9 @@ hr {
     width: 30px;
     height: 1px;
     left: calc(50% - 45px);
-    bottom: 143px;
+    bottom: 90px;
     background-color: #008080;
+    display: none;
   }
 }
 
@@ -506,8 +508,9 @@ hr {
     width: 30px;
     height: 1px;
     left: calc(50% + 15px);
-    bottom: 143px;
+    bottom: 90px;
     background-color: #008080;
+    display: none;
   }
 }
 
@@ -1290,6 +1293,9 @@ header .navbar-brand .social-icon a {
 @media screen and (max-width: 992px) {
   #banner {
     width: 100%;
+  }
+  .desc h2{
+    margin-top: 20px;
   }
 }
 
