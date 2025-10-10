@@ -11,8 +11,6 @@
                               <h2 class="intro-heading">About Me</h2>
                            </div>
                             <p>I build websites designed to bring in customers—by making businesses discoverable, trustworthy, and easy to buy from. Pretty is nice, but profit comes first.</p>
-                            <!-- <p>A website should work harder than you do. I build sites that bring customers, close deals, and keep businesses growing. Pretty sites are good but my first priority is to pump in customers through the sites i build.</p> -->
-                            <!-- <p>I design and build websites that don’t just look good—they win customers and drive growth. Clean code, smooth experiences, real results..</p>                           -->
                            <div class="col-md-4 col-sm-4 no-padding">
                               <ul>
                                  <li><span>Name : </span>King Obioma</li>
