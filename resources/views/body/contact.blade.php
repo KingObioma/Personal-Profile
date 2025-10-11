@@ -7,7 +7,8 @@
                         <span></span>
                      </div>
                      <span class="heading-meta-sub">CONTACT</span>
-                     <p>Contact me for inquiries, collaborations, or just to say hello. I'm reachable via email, phone, or Whatsapp.</p>
+                     {{-- <p>Contact me for inquiries, collaborations, or just to say hello. I'm reachable via email, phone, or Whatsapp.</p> --}}
+                      <p>Your next customer is already searching. Lets make sure they find you. Message me via email, phone, or Whatsapp.</p>
                   </div>
                </div>
                <div class="row">
@@ -16,7 +17,7 @@
                         <li><i class="fas fa-map-marked-alt"></i>km 78 East West Road, Port-Harcourt</li>
                         <li><i class="fas fa-phone-alt"></i><a href="tel:+2349132667481">+234 91-3266-7481</a></li>
                         <li><i class="fas fa-envelope"></i><a href="mailto:kingobioma8@gmail.com?subject=Portfolio%20Inquiry&body=Hey%20King%2C%20I%20just%20saw%20your%20portfolio%20and%20I%27m%20interested%20in%20working%20with%20you." target="_blank">kingobioma8@gmail.com</a></li>
-                        <li><i class="fas fa-globe"></i><a href="javascript:void(0)">www.kingobioma.onrender.com</a></li>
+                        <li><i class="fas fa-globe"></i><a href="javascript:void(0)">www.kingobioma.infinityfreeapp.com</a></li>
                      </ul>
                   </div>
                   <div class="col-md-7 col-md-push-1">
