@@ -460,7 +460,12 @@ hr {
     -webkit-border-radius: 50%;
     border-radius: 50%;
     border: 3px solid #008080;
-    display: none;
+  }
+}
+
+@media (max-width: 578px) {
+  .header-page span:after {
+       bottom: 113px;
   }
 }
 
@@ -485,7 +490,13 @@ hr {
     left: calc(50% - 45px);
     bottom: 90px;
     background-color: #008080;
-    display: none;
+  }
+}
+
+@media (max-width: 578px) {
+ .header-page h2:before,
+  .header-page h2:before {
+    bottom: 120px;
   }
 }
 
@@ -510,7 +521,13 @@ hr {
     left: calc(50% + 15px);
     bottom: 90px;
     background-color: #008080;
-    display: none;
+  }
+}
+
+@media (max-width: 578px) {
+ .header-page h2:after,
+  .header-page h2:after {
+    bottom: 120px;
   }
 }
 
