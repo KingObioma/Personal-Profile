@@ -7,7 +7,6 @@
                         <span></span>
                      </div>
                      <span class="heading-meta-sub">CONTACT</span>
-                     {{-- <p>Contact me for inquiries, collaborations, or just to say hello. I'm reachable via email, phone, or Whatsapp.</p> --}}
                       <p>Your next customer is already searching. Lets make sure they find you. Message me via email, phone, or Whatsapp.</p>
                   </div>
                </div>
