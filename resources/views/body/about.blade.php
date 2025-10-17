@@ -23,7 +23,7 @@
                                  <li><span>Phone : </span> <a href="tel:+2349132667481"> +234 91-3266-7481</a></li>
                               </ul>
                            </div>
-                           <hr> 
+                           <hr>
                            <div class="col-md-12 no-padding mt-20">
                               <a class="btn btn" href="{{ asset('cv/king_cv.pdf') }}" download>Download CV</a>
                               <a class="btn btn-primary" href="https://wa.me/2349132667481?text=Hi%20King%2C%20I'm%20interested%20in%20building%20a%20website%20for%20my%20business.%20Can%20we%20talk%3F" target="_blank">Hire Me</a>
@@ -31,7 +31,7 @@
                         </div>
 
                         <div class="col-md-6">
-                           <div class="post-image" style="background-image: url(images/profile-pic.jpg);"></div>
+                           <div class="post-image" style="background-image: url(images/profile-pic3.jpg);"></div>
                            <div class="display-tc">
                               <div class="desc">
                                  <h3>My skill</h3>
