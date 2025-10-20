@@ -24,17 +24,17 @@
                         <form action="https://formspree.io/f/xblzzdgn" method="POST" target="_blank">
                         <div class="col-md-6">
                            <div class="form-group">
-                              <input type="text" name="name" class="form-control" placeholder="Name">
+                              <input type="text" name="name" class="form-control" placeholder="Name" required>
                            </div>
                         </div>
                         <div class="col-md-6">
                            <div class="form-group">
-                              <input type="text" name="email" class="form-control" placeholder="Email">
+                              <input type="email" name="email" class="form-control" placeholder="Email" required>
                            </div>
                         </div>
                         <div class="col-md-12">
                            <div class="form-group">
-                              <textarea name="message" class="form-control white" id="message" cols="30" rows="7" placeholder="Message"></textarea>
+                              <textarea name="message" class="form-control white" id="message" cols="30" rows="7" placeholder="Message" required></textarea>
                            </div>
                         </div>
                         <div class="col-md-12">

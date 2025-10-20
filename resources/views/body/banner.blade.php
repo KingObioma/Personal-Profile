@@ -8,7 +8,7 @@
                </ul>
                <!-- Slider -->
                <ul class="slides">
-                  <li style="background-image: url(images/test2.png);">
+                  <li style="background-image: url(images/slide_1.png);">
                      <div class="overlay-gradient"></div>
                      <div class="container">
                         <div class="col-md-8 js-fullheight slider-text">
@@ -27,7 +27,7 @@
                         </div>
                      </div>
                   </li>
-                  <li style="background-image: url(images/test2.png);">
+                  <li style="background-image: url(images/slide_1.png);">
                      <div class="overlay-gradient"></div>
                      <div class="container">
                         <div class="col-md-8 js-fullheight slider-text">

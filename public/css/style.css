@@ -2296,7 +2296,7 @@ header .navbar-brand .social-icon a {
   border-bottom: 1px solid #008080;
 }
 
-input[type="text"] {
+input[type="text"], input[type="email"] {
   height: 50px;
   color: white;
 }
