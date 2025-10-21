@@ -6,7 +6,6 @@
                         <h2>Portfolio Highlights</h2>
                         <span></span>
                      </div>
-                     <span class="heading-meta-sub">PORTFOLIO</span>
                      <p>Explore my digital endeavors: innovative apps, captivating websites, and user-centered projects showcasing my skills.</p>
                   </div>
                </div>

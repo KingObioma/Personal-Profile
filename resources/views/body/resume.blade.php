@@ -6,7 +6,6 @@
                         <h2>My Resume</h2>
                         <span></span>
                      </div>
-                     <span class="heading-meta-sub">RESUME</span>
                      <p>Professional snapshot: Experience, education, skills, achievements. A concise overview of qualifications and accomplishments.</p>
                   </div>
                </div>

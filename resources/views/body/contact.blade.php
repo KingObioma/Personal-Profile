@@ -6,7 +6,6 @@
                         <h2>Get In Touch</h2>
                         <span></span>
                      </div>
-                     <span class="heading-meta-sub">CONTACT</span>
                       <p>Your next customer is already searching. Lets make sure they find you. Message me via email, phone, or Whatsapp.</p>
                   </div>
                </div>

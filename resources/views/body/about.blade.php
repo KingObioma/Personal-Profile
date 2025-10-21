@@ -31,7 +31,7 @@
                         </div>
 
                         <div class="col-md-6">
-                           <div class="post-image" style="background-image: url(images/profile-pic.png);"></div>
+                           <div class="post-image" style="background-image: url(images/profile-pic.jpg);"></div>
                            <div class="display-tc">
                               <div class="desc">
                                  <h3>My skill</h3>
