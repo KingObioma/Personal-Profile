@@ -7,7 +7,7 @@
                         <h2>My Services</h2>
                         <span></span>
                      </div>
-                     <p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+                     <p>From design to deployment, I craft powerful digital products that help businesses grow, engage users, and stand out online.</p>
                   </div>
                </div>
                <div class="row">
@@ -20,8 +20,8 @@
                            <h2>01</h2>
                         </div>
                         <div class="text">
-                           <h3>Branding</h3>
-                           <p>Phasellus eget neque et lectus pharetra accumsan. </p>
+                           <h3>Brand Strategy</h3>
+                           <p>I help define clear, powerful identities that attract loyal customers.</p>
                         </div>
                      </div>
                   </div>
@@ -34,8 +34,8 @@
                            <h2>02</h2>
                         </div>
                         <div class="text">
-                           <h3>Web Design</h3>
-                           <p>Phasellus eget neque et lectus pharetra accumsan. </p>
+                           <h3>UI/UX Design</h3>
+                           <p>I create intuitive, elegant interfaces that enhance user experience.</p>
                         </div>
                      </div>
                   </div>
@@ -48,8 +48,8 @@
                            <h2>03</h2>
                         </div>
                         <div class="text">
-                           <h3>Search optimization</h3>
-                           <p>Phasellus eget neque et lectus pharetra accumsan.</p>
+                           <h3>SEO Optimization</h3>
+                           <p>I improve visibility, ranking, and performance across major search engines.</p>
                         </div>
                      </div>
                   </div>
@@ -63,7 +63,7 @@
                         </div>
                         <div class="text">
                            <h3>Web Development</h3>
-                           <p>Phasellus eget neque et lectus pharetra accumsan. </p>
+                           <p>I build fast, responsive, and scalable websites for businesses.</p>
                         </div>
                      </div>
                   </div>
@@ -76,8 +76,8 @@
                            <h2>05</h2>
                         </div>
                         <div class="text">
-                           <h3>User Interface</h3>
-                           <p>Phasellus eget neque et lectus pharetra accumsan. </p>
+                           <h3>Web Applications</h3>
+                           <p>I craft dynamic platforms that streamline business operations efficiently.</p>
                         </div>
                      </div>
                   </div>
@@ -90,8 +90,8 @@
                            <h2>06</h2>
                         </div>
                         <div class="text">
-                           <h3>Help &amp; Support</h3>
-                           <p>Phasellus eget neque et lectus pharetra accumsan. </p>
+                           <h3>eCommerce Solutions</h3>
+                           <p>I develop secure, conversion-focused online stores that drive sales.</p>
                         </div>
                      </div>
                   </div>
