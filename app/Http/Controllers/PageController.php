@@ -20,6 +20,9 @@ class PageController extends Controller
         $projects = $this->projects;
         return view('pages.work', compact('projects'));
     }
+    public function services() {
+        return view('pages.services');
+    }
     public function contact(){
         return view('pages.contact');
     }
