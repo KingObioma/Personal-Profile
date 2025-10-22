@@ -17,7 +17,7 @@
                                  <h2>I'm King Obioma!</h2>
                                  <h3>I am a
                                     <span id="typed-slide-1"></span>
-                                    <span id="typed-strings-slide-1">
+                                    <span id="type1d-strings-slide-1">
                                     <span>Full Stack Developer</span>
                                     <span>Backend Developer</span>
                                     </span>
