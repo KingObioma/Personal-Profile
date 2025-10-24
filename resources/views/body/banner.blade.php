@@ -19,7 +19,7 @@
                                  <h3>I am a
                                     <span id="typed-slide-1"></span>
                                     <span id="type1d-strings-slide-1">
-                                    <span>Full Stack Developer</span>
+                                    <span>Full Stack </span>
                                     <span>Backend Developer</span>
                                     </span>
                                  </h3>

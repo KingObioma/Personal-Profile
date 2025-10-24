@@ -12,7 +12,7 @@
     <!--Favicons-->
     <link rel="shortcut icon" href="{{asset('images/favicon.png')}}">
     <!--Page Title-->
-    <title>King - Personal Portfolio</title>
+    <title>@yield('title', 'King Obioma | Business Web Developer')</title>
     <!-- Bootstrap  -->
     <link rel="stylesheet" href="{{asset('css/bootstrap.css')}}">
     <!-- Animate.css -->
