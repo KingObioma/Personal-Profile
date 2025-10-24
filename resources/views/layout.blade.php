@@ -5,9 +5,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
-    <meta name="author" content="" />
+    <meta name="description" content="King Obioma — Web Developer building conversion-driven websites for businesses that want growth, not just aesthetics.">
+    <meta name="keywords" content="Web developer, Laravel, portfolio, frontend, backend, full stack, Nigeria, King Obioma, business websites">
+    <meta name="author" content="King Obioma">
+
     <!--Favicons-->
     <link rel="shortcut icon" href="{{asset('images/favicon.png')}}">
     <!--Page Title-->
