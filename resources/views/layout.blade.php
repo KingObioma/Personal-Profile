@@ -13,7 +13,7 @@
     <meta property="og:image" content="{{ asset('images/portfolio-preview.png') }}">
     <meta property="og:url" content="{{ url()->current() }}">
     <!--Favicons-->
-    <link rel="shortcut icon" href="{{asset('/favicon.png')}}">
+    <link rel="shortcut icon" href="{{asset('images/favicon.png')}}">
     <!--Page Title-->
     <title>@yield('title', 'King Obioma | Business Web Developer')</title>
     <!-- Bootstrap  -->
