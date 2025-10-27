@@ -8,7 +8,7 @@
     <meta name="description" content="King Obioma — Web Developer building conversion-driven websites for businesses that want growth, not just aesthetics.">
     <meta name="keywords" content="Web developer, Laravel, portfolio, frontend, backend, full stack, Nigeria, King Obioma, business websites">
     <meta name="author" content="King Obioma">
-    <meta property="og:title" content="King Obioma | Business Web Developer">
+    <meta property="og:title" content="King Obioma | Business Web">
     <meta property="og:description" content="I build websites designed to bring in customers—by making businesses discoverable, trustworthy, and easy to buy from.">
     <meta property="og:image" content="{{ asset('images/portfolio-preview.png') }}">
     <meta property="og:url" content="{{ url()->current() }}">
