@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="King Obioma — Web Developer building conversion-driven websites for businesses that want growth, not just aesthetics.">
-    <meta name="keywords" content="Web developer, Laravel, portfolio, frontend, backend, full stack, Nigeria, King Obioma, business websites">
+    <meta name="keywords" content="Web developer,  portfolio, frontend, backend, full stack, Nigeria, King Obioma, business websites">
     <meta name="author" content="King Obioma">
     <meta property="og:title" content="King Obioma | Business Web Developer">
     <meta property="og:description" content="I build websites designed to bring in customers—by making businesses discoverable, trustworthy, and easy to buy fro.">
