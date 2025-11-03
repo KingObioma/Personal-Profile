@@ -1,20 +1,20 @@
 ;(function () {
-	
+
 	'use strict';
 
 	// preloader
     $('#status').fadeOut(); // will first fade out the loading animation
     $('#preloader').delay(550).fadeOut('slow'); // will fade out the white DIV that covers the website.
-    
 
-	// iPad and iPod detection	
+
+	// iPad and iPod detection
 	var isiPad = function(){
 		return (navigator.platform.indexOf("iPad") != -1);
 	};
 
 	var isiPhone = function(){
 	    return (
-			(navigator.platform.indexOf("iPhone") != -1) || 
+			(navigator.platform.indexOf("iPhone") != -1) ||
 			(navigator.platform.indexOf("iPod") != -1)
 	    );
 	};
@@ -55,7 +55,7 @@
 		$('.animate-box').waypoint( function( direction ) {
 
 			if( direction === 'down' && !$(this.element).hasClass('animated') ) {
-				
+
 				i++;
 
 				$(this.element).addClass('item-animate');
@@ -74,19 +74,19 @@
 							el.removeClass('item-animate');
 						},  k * 200, 'easeInOutExpo' );
 					});
-					
+
 				}, 100);
-				
+
 			}
 
 		} , { offset: '85%' } );
 	};
 
 	var sliderMain = function() {
-		
+
 	  	$('#banner .flexslider').flexslider({
 			animation: "fade",
-			slideshowSpeed: 5000,
+			slideshowSpeed: 7000,
 			directionNav: true,
 			start: function(){
 				setTimeout(function(){
@@ -103,13 +103,13 @@
 
 	  	});
 
-	  	$('#banner .flexslider .slides > li').css('height', $(window).height());	
+	  	$('#banner .flexslider .slides > li').css('height', $(window).height());
 	  	$(window).resize(function(){
-	  		$('#banner .flexslider .slides > li').css('height', $(window).height());	
+	  		$('#banner .flexslider .slides > li').css('height', $(window).height());
 	  	});
 
 	};
-	
+
 	var counter = function() {
 		$('.js-counter').countTo({
 			 formatter: function (value, options) {
@@ -121,9 +121,9 @@
 	var counterWayPoint = function() {
 		if ($('#counter-animate').length > 0 ) {
 			$('#counter-animate').waypoint( function( direction ) {
-										
+
 				if( direction === 'down' && !$(this.element).hasClass('animated') ) {
-					setTimeout( counter , 400);					
+					setTimeout( counter , 400);
 					$(this.element).addClass('animated');
 				}
 			} , { offset: '90%' } );
@@ -131,7 +131,7 @@
 	};
 
 	var typed = function () {
-			//------- Typed --------// 
+			//------- Typed --------//
 			var typed = new Typed('#typed-slide-1', {
 				stringsElement: '#typed-strings-slide-1',
 				backSpeed: 40,
@@ -139,7 +139,7 @@
 				loop: true
 			});
 
-			//------- Typed --------// 
+			//------- Typed --------//
 			var typed = new Typed('#typed-slide-2', {
 				stringsElement: '#typed-strings-slide-2',
 				backSpeed: 40,
