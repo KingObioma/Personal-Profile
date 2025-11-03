@@ -3,7 +3,7 @@
                <!-- Social -->
                <ul class="list-unstyled ml-5 mt-3 position-relative social-links">
                    <li class="mb-3"><a href="https://www.instagram.com/iamkingobioma" target="_blank"><i class="fab fa-instagram"></i></a></li>
-                    <li class="mb-3"><a href="https://facebook.com/iamkingobioma" target="_blank"><i class="fab fa-facebook"></i></a></li>
+                    <li class="mb-3"><a href="https://facebook.com/iamkingobioma" target="_blank"><i class="fab fa-facebook-square"></i></a></li>
                    <li class="mb-3"><a href="https://www.linkedin.com/in/king-obioma-53a266382" target="_blank"><i class="fab fa-linkedin"></i></a></li>
                   <li class="mb-3"><a href="https://wa.me/2349132667481?text=Hello%20King!%20I%20just%20checked%20your%20portfolio%20and%20I’m%20interested%20in%20working%20with%20you." target="_blank"><i class="fab fa-whatsapp"></i></a></li>
                </ul>
