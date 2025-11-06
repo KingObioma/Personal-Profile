@@ -41,9 +41,9 @@
                         <h3>I craft
                            <span id="typed-slide-2"></span>
                            <span id="typed-strings-slide-2">
-                              <span>fast, optimized systems</span>
+                              <span>fast, optimized websites</span>
                               <span>strategic web systems</span>
-                               <span>Online Conversion Engines</span>
+                               <span>clean, effective UI.</span>
                            </span>
                         </h3>
                      </div>
