@@ -10,14 +10,16 @@
                             <div class="header-page-about">
                               <h2 class="intro-heading">About Me</h2>
                            </div>
-                            <p>I build websites designed to bring in customers—by making businesses discoverable, trustworthy, and easy to buy from. Pretty is nice, but profit comes first.</p>
-                           <div class="col-md-4 col-sm-4 no-padding">
+                            <p>I build websites designed to bring in customers—by making businesses discoverable, trustworthy, and easy to buy from.</p>
+                            <p>Pretty is nice, but profit comes first.</p>
+                            <p>I don’t just build websites — I build profit systems, sites that bring customers, close deals, and keep businesses growing.</p>
+                           <div class="col-md-4 col-sm-4 margin-top-27">
                               <ul>
                                  <li><span>Name : </span>King Obioma</li>
-                                 <li><span>Job : </span> Freelancer</li>
+                                 <li><span>Job : </span> Freelance Web Developer</li>
                               </ul>
                            </div>
-                           <div class="col-md-6 col-sm-4 no-padding">
+                           <div class="col-md-6 col-sm-4 margin-top-27">
                               <ul>
                                  <li><span>Email : </span> <a href="mailto:kingobioma8@gmail.com?subject=Portfolio%20Inquiry&body=Hey%20King%2C%20I%20just%20saw%20your%20portfolio%20and%20I%27m%20interested%20in%20working%20with%20you." target="_blank">kingobioma8@gmail.com</a></li>
                                  <li><span>Phone : </span> <a href="tel:+2349132667481"> +234 91-3266-7481</a></li>
@@ -48,13 +50,13 @@
                                     </div>
                                  </div>
                                  <div class="skill-item">
-                                    <h5>Jquery & Javascript</h5><span>92%</span>
+                                    <h5>Typescript & Javascript</h5><span>92%</span>
                                     <div class="progress" data-percent="92%">
                                        <div class="progress-bar bar-null" role="progressbar" aria-valuenow="79" aria-valuemin="0" aria-valuemax="100" style="width: 92%;"></div>
                                     </div>
                                  </div>
                                  <div class="skill-item">
-                                    <h5>Laravel, Bootsrap & Vue-JS</h5><span>98%</span>
+                                    <h5>Laravel, Tailwind & Vue-JS</h5><span>98%</span>
                                     <div class="progress" data-percent="98%">
                                        <div class="progress-bar bar-null" role="progressbar" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100" style="width: 98%;"></div>
                                     </div>

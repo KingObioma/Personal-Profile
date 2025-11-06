@@ -4,7 +4,7 @@
                <div class="row">
                   <div class="col-md-8 col-md-offset-2 text-center heading">
                      <div class="header-page">
-                        <h2>My Services</h2>
+                        <h2>Services</h2>
                         <span></span>
                      </div>
                      <p>From design to deployment, I craft powerful digital products that help businesses grow, engage users, and stand out online.</p>

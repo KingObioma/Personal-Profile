@@ -3,13 +3,13 @@
                <div class="row">
                   <div class="col-md-8 col-md-offset-2 text-center heading">
                      <div class="header-page">
-                        <h2>My Resume</h2>
+                        <h2>Profile</h2>
                         <span></span>
                      </div>
                      <p>Professional snapshot: Experience, education, skills, achievements. A concise overview of qualifications and accomplishments.</p>
                   </div>
                </div>
-               <div class="row">
+               <div class="row second-resume-row">
                   <div class="col-md-12">
                      <div class="col-md-6">
                         <div class="item mb-40">

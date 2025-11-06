@@ -116,6 +116,15 @@ span {
   font-weight: 400;
 }
 
+.post-entry p{
+  margin-bottom: 10px;
+}
+
+.margin-top-27 {
+  margin-top: 27px;
+  padding: 0;
+}
+
 span {
   font-weight: 700;
   font-size: 16px;
@@ -458,6 +467,9 @@ hr {
     border-bottom: 2px solid #008080;
     height: 65px;
     margin-bottom: 20px;
+}
+.second-resume-row{
+    margin-top: 40px;
 }
 }
 
@@ -1983,13 +1995,18 @@ header .navbar-brand .social-icon a {
   transition: transform 0.3s, opacity 0.3s, -webkit-transform 0.3s;
   -webkit-transform: translate3d(0, -15px, 0);
   transform: translate3d(0, -15px, 0);
-  margin-bottom: 15px;
-}
-
-#work .work .desc h3 a {
+  margin-bottom: 0px;
   color: #008080;
   border-left: 2px solid #008080;
   padding: 10px;
+}
+
+#work .work .desc h3:hover{
+    text-decoration: underline;
+}
+
+.second-resume-row{
+    /* margin-top: 50px; */
 }
 
 #work .work .desc span {
@@ -2019,7 +2036,6 @@ header .navbar-brand .social-icon a {
     font-size: 28px;
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
-    color: #000;
   }
   #work .work .desc span {
     -webkit-transform: translate3d(0, 0, 0);

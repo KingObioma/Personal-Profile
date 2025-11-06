@@ -3,7 +3,7 @@
                <div class="row">
                   <div class="col-md-8 col-md-offset-2 text-center heading">
                      <div class="header-page">
-                        <h2>Portfolio Highlights</h2>
+                        <h2>Work</h2>
                         <span></span>
                      </div>
                      <p>Explore my digital endeavors: innovative apps, captivating websites, and user-centered projects showcasing my skills.</p>
@@ -15,15 +15,17 @@
                   <div class="col-lg-12">
                      <div class="work-gallery">
                         @foreach ($projects as $project)
-                            <div class="col-lg-4 col-md-6 col-sm-12 all web">
+                        <div class="col-lg-4 col-md-6 col-sm-12 all web">
                             <div class="work">
                                 <img class="img-fluid" src="{{ asset($project['image']) }}" alt="{{ $project['name'] }}">
-                                <div class="desc">
-                                    <div class="con">
-                                        <h3><a href="{{ route('single.work', $project['id']) }}">{{ $project['name'] }}</a></h3>
-                                        <span>{{ $project['slug'] }}</span>
+                                <a href="{{ route('single.work', $project['id']) }}">
+                                    <div class="desc">
+                                        <div class="con">
+                                            <h3>{{ $project['name'] }}</h3>
+                                            <span>{{ $project['slug'] }}</span>
+                                        </div>
                                     </div>
-                                </div>
+                                </a>
                             </div>
                             </div>
                         @endforeach
