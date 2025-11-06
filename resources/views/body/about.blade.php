@@ -10,9 +10,9 @@
                             <div class="header-page-about">
                               <h2 class="intro-heading">About Me</h2>
                            </div>
+                           <p>I don’t just build websites — I build profit systems, sites that bring customers, close deals, and keep businesses growing.</p>
+                           <p>Pretty is nice, but profit comes first.</p>
                             <p>I build websites designed to bring in customers—by making businesses discoverable, trustworthy, and easy to buy from.</p>
-                            <p>Pretty is nice, but profit comes first.</p>
-                            <p>I don’t just build websites — I build profit systems, sites that bring customers, close deals, and keep businesses growing.</p>
                            <div class="col-md-4 col-sm-4 margin-top-27">
                               <ul>
                                  <li><span>Name : </span>King Obioma</li>
