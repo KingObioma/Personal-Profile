@@ -20,9 +20,9 @@
                         <h3>I build
                            <span id="typed-slide-1"></span>
                            <span id="typed-strings-slide-1">
-                              <span>modern business platforms</span>
-                              <span>high-performance websites</span>
+                            <span>Online Conversion Engines</span>
                               <span>conversion-driven designs</span>
+                              <span>high-performance sites</span>
                            </span>
                         </h3>
                      </div>
@@ -41,9 +41,9 @@
                         <h3>I craft
                            <span id="typed-slide-2"></span>
                            <span id="typed-strings-slide-2">
+                               <span>strategic sales machines</span>
                               <span>fast, optimized systems</span>
-                              <span>strategic web systems</span>
-                               <span>Online Conversion Engines</span>
+                              <span>modern business platforms</span>
                            </span>
                         </h3>
                      </div>

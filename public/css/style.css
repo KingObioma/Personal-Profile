@@ -35,7 +35,8 @@ body {
   font-family: "Quicksand", Arial, sans-serif;
   line-height: 1.8;
   font-size: 20px;
-  background-color: #0d0d0d;
+  /* background-color: #0d0d0d; */
+  background-color: white;
   font-weight: 400;
   overflow-x: hidden;
   color: #fff;
