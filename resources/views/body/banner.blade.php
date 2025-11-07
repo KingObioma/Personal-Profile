@@ -22,7 +22,6 @@
                            <span id="typed-strings-slide-1">
                             <span>Online Conversion Engines</span>
                               <span>conversion-driven designs</span>
-                              <span>high-performance sites</span>
                            </span>
                         </h3>
                      </div>
