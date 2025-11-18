@@ -15,7 +15,7 @@
                             <p>I build websites designed to bring in customers—by making businesses discoverable, trustworthy, and easy to buy from.</p>
                            <div class="col-md-4 col-sm-4 margin-top-27">
                               <ul>
-                                 <li><span>Name : </span>King Obioma king</li>
+                                 <li><span>Name : </span>King Obioma</li>
                                  <li><span>Job : </span> Freelance Web Developer</li>
                               </ul>
                            </div>
