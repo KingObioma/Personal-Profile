@@ -17,7 +17,7 @@
                   <div class="slider-text-inner">
                      <div class="desc">
                         <h2>I'm King Obioma.</h2>
-                        <h3>I build
+                        <h3>I build king
                            <span id="typed-slide-1"></span>
                            <span id="typed-strings-slide-1">
                             <span>Online Conversion Engines</span>
