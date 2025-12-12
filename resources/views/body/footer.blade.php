@@ -18,4 +18,5 @@
     </div>
     <!-- Back to top button -->
     <a id="back-to-top" href="#"><i class="fas fa-chevron-up"></i></a>
+    <a id="back-to-top" href="#"><i class="fas fa-chevron-up"></i></a>
 </footer>
