@@ -7,7 +7,6 @@
                      <div class="desc">
                         <h2>{{ $project['name'] }}</h2>
                         <span><a href="#">{{ $project['slug'] }}</a></span>
-                        <span><a href="#">{{ $project['slug'] }}</a></span>
                         <p>{{ $project['description'] }}</p>
                          <p class="social-icon">
                             <a href="https://www.linkedin.com/in/kingobioma/" target="_blank"><i class="fab fa-linkedin"></i></a>
