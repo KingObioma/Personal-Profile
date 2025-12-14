@@ -23,7 +23,6 @@
                             <span>Online Conversion Engines</span>
                             <span>conversion-driven designs</span>
                             <span>high-performance sites</span>
-                            <span>high-performance sites</span>
                            </span>
                         </h3>
                      </div>
